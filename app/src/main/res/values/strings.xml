@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ComposeUI</string>
+    <string name="austria">Austria</string>
+    <string name="colombia">Colombia</string>
+    <string name="denmark">Denmark</string>
+    <string name="italy">Italy</string>
+    <string name="madagascar">Madagascar</string>
+    <string name="poland">Poland</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="thailand">Thailand</string>
+    <string name="f">F</string>
 </resources>
